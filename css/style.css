@@ -1,0 +1,15 @@
+p {
+  font-family: 'Sansita Swashed', cursive;
+}
+
+.enbolden {
+  font-weight: bold;
+}
+
+.fs24 {
+  font-size: 24px;
+}
+
+.lh50 {
+  line-height: 50px;
+}
